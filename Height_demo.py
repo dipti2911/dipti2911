@@ -1,0 +1,10 @@
+height=5.2
+weight=50
+heightinmeters=height*0.4536
+print(heightinmeters)
+bmi=weight/(heightinmeters*heightinmeters)
+print(bmi)
+heightin_inches=(height*12)+2
+print(heightin_inches)
+height_in_meters=height/heightin_inches
+print(height_in_meters)
